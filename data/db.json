@@ -1,0 +1,28 @@
+{
+  "notes": [
+    {
+      "title": "Complete my ninja training",
+      "details": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took.",
+      "category": "work",
+      "id": 2
+    },
+    {
+      "title": "Order a pizza!",
+      "details": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.\nLorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.",
+      "category": "todos",
+      "id": 3
+    },
+    {
+      "title": "React Admin for react developers",
+      "details": "Tip: The <PostEdit> and the <PostCreate> components use almost the same child form, except for the additional id input in <PostEdit>. In most cases, the forms for creating and editing a record are a bit different, because most APIs create primary keys server-side. But if the forms are the same, you can share a common form component in <PostEdit> and <PostCreate>.",
+      "category": "money",
+      "id": 5
+    },
+    {
+      "title": "Working with material ui",
+      "details": "There are a couple of things we can still do to make this dashboard, a little better, for example, supporting mobile devices, how to add own API instead of the JSON placeholder, and build a custom data provider, this will be rolled out in the next post. So keep your eyes peeled.",
+      "category": "work",
+      "id": 6
+    }
+  ]
+}
